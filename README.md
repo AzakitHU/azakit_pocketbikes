@@ -6,7 +6,7 @@ This script allows players to spawn and ride different types of bicycles by usin
 * Usable item for spawning bicycles
 
 # Preview
-https://www.youtube.com/watch?v=2HATlZcD3gE
+https://www.youtube.com/watch?v=qTwMyWO2YZk
 
 # Install
 - Download the [repository](https://github.com/AzakitHU/azakit_pocketbikes).
