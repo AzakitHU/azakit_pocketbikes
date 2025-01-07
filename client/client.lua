@@ -89,6 +89,12 @@ function playAssemblyAnimation()
     ClearPedTasks(playerPed)
 end
 
+-- exports("useItem", ...) hívása
+exports("useItem", function(data, slot)
+    local itemName = data.name
+    TriggerEvent("useSpecificBike", itemName)
+end)
+
 --[[
 -- For testing: manually spawn a bike with a command
 RegisterCommand('spawnbike', function()
