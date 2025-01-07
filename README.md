@@ -20,55 +20,76 @@ https://www.youtube.com/watch?v=qTwMyWO2YZk
 		weight = 200,
 		stack = false,
 		close = true,
-		description = nil
+		description = nil,
+		client = {
+			export = "azakit_pocketbikes.useItem"
+		}
 	},
-
+	
 	['cruiser'] = {
 		label = 'Cruiser',
 		weight = 200,
 		stack = false,
 		close = true,
-		description = nil
+		description = nil,
+		client = {
+			export = "azakit_pocketbikes.useItem"
+		}
 	},
-
+	
 	['fixter'] = {
 		label = 'Fixter',
 		weight = 200,
 		stack = false,
 		close = true,
-		description = nil
+		description = nil,
+		client = {
+			export = "azakit_pocketbikes.useItem"
+		}
 	},
-
+	
 	['scorcher'] = {
 		label = 'Scorcher',
 		weight = 200,
 		stack = false,
 		close = true,
-		description = nil
+		description = nil,
+		client = {
+			export = "azakit_pocketbikes.useItem"
+		}
 	},
-
+	
 	['tribike'] = {
 		label = 'Tribike',
 		weight = 200,
 		stack = false,
 		close = true,
-		description = nil
+		description = nil,
+		client = {
+			export = "azakit_pocketbikes.useItem"
+		}
 	},
-
+	
 	['tribike2'] = {
 		label = 'Tribike V2',
 		weight = 200,
 		stack = false,
 		close = true,
-		description = nil
+		description = nil,
+		client = {
+			export = "azakit_pocketbikes.useItem"
+		}
 	},
-
+	
 	['tribike3'] = {
 		label = 'Tribike V3',
 		weight = 200,
 		stack = false,
 		close = true,
-		description = nil
+		description = nil,
+		client = {
+			export = "azakit_pocketbikes.useItem"
+		}
 	},
 
 # Requirements
