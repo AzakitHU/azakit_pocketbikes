@@ -89,7 +89,7 @@ function playAssemblyAnimation()
     ClearPedTasks(playerPed)
 end
 
--- exports("useItem", ...) hívása
+-- exports("useItem", ...) 
 exports("useItem", function(data, slot)
     local itemName = data.name
     TriggerEvent("useSpecificBike", itemName)
