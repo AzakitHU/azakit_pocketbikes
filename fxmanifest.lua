@@ -17,6 +17,10 @@ server_scripts {
     'server/*'
 }
 
+exports {
+    'useItem'
+}
+
 shared_scripts {
 	'@es_extended/imports.lua',
   --  '@qb-core/shared/items.lua',
