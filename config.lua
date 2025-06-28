@@ -1,7 +1,7 @@
 Config = {}
 
 -- Choose which framework you want to use
-Config.Framework = 'esx' -- 'esx' or 'qbcore' (and fxmanifest.lua)
+Config.Framework = 'esx' -- 'esx' or 'qbcore'
 
 -- Bicycle types
 Config.Bikes = { 
