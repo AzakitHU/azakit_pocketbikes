@@ -20,12 +20,3 @@ server_scripts {
 exports {
     'useItem'
 }
-
-shared_scripts {
-	'@es_extended/imports.lua',
-  --  '@qb-core/shared/items.lua',
-}
-dependencies {
-    'es_extended',
-    --'qb-core'
-}
